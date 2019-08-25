@@ -34,3 +34,21 @@ body {
 #submitNewThread {
   margin: 50px;
 }
+body {
+  background-color: #CACFD2;
+  font-family: Cambria;
+  text-align:center
+}
+.project {
+color: #2C3E50;
+}
+code{
+  background-color:white;
+  font-size: 15px;
+}
+::placeholder{
+  text-align: center
+}
+a{
+  text-decoration: none
+}
